@@ -1,4 +1,4 @@
-## Portfolio
+## PROFESSIONAL PORTFOLIO
 
 ---
 
@@ -19,8 +19,8 @@
 
 ### Data Science | ML
 
-- [Document Classification: Machine Learning | Python](https://www.linkedin.com/pulse/ectd-document-classification-using-machine-learning-vemulakonda/)
-- [Geo spatial Analysis of Hyderabad Applied Capstone: Python | ML](https://www.linkedin.com/pulse/hyderabad-neighborhood-analysis-capstone-project-vemulakonda/)
+- [Document Classification: ML | Python](https://www.linkedin.com/pulse/ectd-document-classification-using-machine-learning-vemulakonda/)
+- [Geo spatial Analysis: Capstone: ML | Python](https://www.linkedin.com/pulse/hyderabad-neighborhood-analysis-capstone-project-vemulakonda/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 
