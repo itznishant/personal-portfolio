@@ -2,34 +2,31 @@
 
 ---
 
-### Category Name 1 
+### BLOCKCHAIN
 
-[Project 1 Title](/sample_page)
+[Instant Crypto Exchange Dapp (Ethereum, Smart contracts)](https://itznishant.github.io/CryptoExchangeDapp)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[DeFi (Decentralised Finance) Bank](https://github.com/itznishant/DeFi-Bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[DAPP: Crypto Token Sale ICO](https://itznishant.github.io/SASITokenDAPP)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Data Science | ML
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Document Classification: Machine Learning | Python](https://www.linkedin.com/pulse/ectd-document-classification-using-machine-learning-vemulakonda/)
+- [Geo spatial Analysis of Hyderabad Applied Capstone: Python | ML](https://www.linkedin.com/pulse/hyderabad-neighborhood-analysis-capstone-project-vemulakonda/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
 
-
-
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:8px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
