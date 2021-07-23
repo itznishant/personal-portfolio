@@ -9,10 +9,10 @@
 
 ---
 [DeFi (Decentralised Finance) Bank](https://github.com/itznishant/DeFi-Bank)
-<img src="images/DeFiBankDappUI.png?raw=true"/>
+<img src="images/dBankDappUIFinal.png?raw=true"/>
 
 ---
-[DAPP: Crypto Token Sale ICO](https://itznishant.github.io/SASITokenDAPP)
+[Crypto Token Sale ICO DAPP](https://itznishant.github.io/SASITokenDAPP)
 <img src="images/TokenSaleDappUI.png?raw=true"/>
 
 ---
